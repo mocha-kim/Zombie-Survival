@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbdff21758d05e4418b68efcc42678f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraTransform: {instanceID: 0}
+  - playerStat: {fileID: 11400000, guid: 1716c0075c0454787a7177d134d26804, type: 2}
+  - inventory: {fileID: 11400000, guid: 7ad0b34aaf5fc417f8f3b0f86b182a0b, type: 2}
+  - quickslot: {fileID: 11400000, guid: cbd2badb11fc84de491a10c31c9c5c1c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
